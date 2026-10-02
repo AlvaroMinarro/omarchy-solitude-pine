@@ -1,0 +1,83 @@
+mode = "dark"
+
+# ---------------------------------------------------------
+# Solitude Pine
+# Solitude desktop + Rosé Pine syntax + pastel green accent
+# ---------------------------------------------------------
+
+# UI accent
+accent = "#459a88"
+
+# Keep Solitude's neutral UI
+selection = "#343d41"
+muted = "#4b4e55"
+
+# ---------------------------------------------------------
+# Backgrounds — Solitude
+# ---------------------------------------------------------
+
+background = "#101315"
+dark_background = "#0c0e10"
+darker_background = "#080a0b"
+lighter_background = "#101315"
+
+# ---------------------------------------------------------
+# Foregrounds — Solitude
+# ---------------------------------------------------------
+
+foreground = "#cacccc"
+dark_foreground = "#4b4e55"
+light_foreground = "#cbc2be"
+bright_foreground = "#a5aeb4"
+
+# ---------------------------------------------------------
+# Desktop / Hyprland accent
+# ---------------------------------------------------------
+
+hyprland_active_border = "rgba(459a88ee) rgba(caccccee) 45deg"
+hyprland_inactive_border = "rgb(1e1e1e)"
+
+active_border_color = "#459a88"
+active_tab_background = "#459a88"
+
+# ---------------------------------------------------------
+# Syntax palette
+#
+# Rosé Pine-inspired, replacing Pine with our custom
+# pastel green #459a88.
+# ---------------------------------------------------------
+
+# Love
+red = "#eb6f92"
+
+# Gold
+yellow = "#f6c177"
+
+# Warm complementary tone
+orange = "#ea9a6f"
+
+# Custom pastel Pine
+green = "#459a88"
+
+# Rose
+cyan = "#ebbcba"
+
+# Foam
+blue = "#9ccfd8"
+
+# Iris
+magenta = "#c4a7e7"
+
+# Warm muted brown
+brown = "#9c806d"
+
+# ---------------------------------------------------------
+# Bright ANSI variants
+# ---------------------------------------------------------
+
+bright_red = "#f083a4"
+bright_yellow = "#f8cc8f"
+bright_green = "#63ad9e"
+bright_cyan = "#f1ccc9"
+bright_blue = "#b4dbe3"
+bright_magenta = "#d3b9ee"

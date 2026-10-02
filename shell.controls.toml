@@ -1,0 +1,26 @@
+normal-color        = "#cacccc"
+normal-fill-alpha   = 0.04
+normal-border       = "#cacccc"
+normal-border-width = 1
+normal-border-alpha = 0.4
+
+hover-cursor-color        = "#cacccc"
+hover-cursor-fill-alpha   = 0.08
+hover-cursor-border       = "#cacccc"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.25
+
+focus-color        = "#cacccc"
+focus-fill-alpha   = 0.08
+focus-border       = "#cacccc"
+focus-border-width = 1
+focus-border-alpha = 0.25
+
+selected-color        = "#cacccc"
+selected-fill-alpha   = 0.18
+selected-border       = "hyprland.active-border"
+selected-border-width = "0 0 0 3"
+selected-border-alpha = 1.0
+
+pressed-fill-alpha   = 0.22
+selection-fill-alpha = 0.35
